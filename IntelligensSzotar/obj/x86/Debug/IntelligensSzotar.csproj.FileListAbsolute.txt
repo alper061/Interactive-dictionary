@@ -1,0 +1,34 @@
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\MainWindow.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\MainWindow.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\App.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\IntelligensSzotar.Properties.Resources.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\IntelligensSzotar.csproj.GenerateResource.Cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\NewTopic.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\NewTopic.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\AddWords.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\AddWords.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\Statistics.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\Statistics.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\bin\Debug\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\bin\Debug\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár_MarkupCompile.cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár.g.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\bin\Debug\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\bin\Debug\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\App.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár_MarkupCompile.cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\Interaktív szótár.g.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\IntelligensSzotar.Properties.Resources.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\IntelligensSzotar.csproj.GenerateResource.Cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\AddWords.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\MainWindow.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\NewTopic.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\Statistics.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\AddWords.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\MainWindow.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\NewTopic.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Debug\windows\Statistics.g.cs

@@ -1,0 +1,37 @@
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\bin\Release\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\bin\Release\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\AddWords.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\MainWindow.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\NewTopic.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\Statistics.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\AddWords.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\MainWindow.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\NewTopic.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\Statistics.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\App.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár_MarkupCompile.cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár.g.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\IntelligensSzotar.Properties.Resources.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\IntelligensSzotar.csproj.GenerateResource.Cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\IntelligensSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\bin\Release\Interaktív szótár.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\bin\Release\Interaktív szótár.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\App.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár_MarkupCompile.cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\Interaktív szótár.g.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\IntelligensSzotar.Properties.Resources.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\IntelligensSzotar.csproj.GenerateResource.Cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\AddWords.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\AddWords.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\MainWindow.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\NewTopic.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\Statistics.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\MainWindow.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\NewTopic.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\windows\Statistics.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\res\lang\English.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\res\lang\Hungarian.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\Hasznos\InteraktivSzotar\IntelligensSzotar\obj\x86\Release\App.baml

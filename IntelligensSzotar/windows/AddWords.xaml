@@ -1,0 +1,43 @@
+﻿<Window x:Class="IntelligensSzotar.AddWords"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Szavak hozzáadása" Height="193" Width="400" KeyDown="Window_KeyDown" Icon="/img/addword.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" Height="30">Témák:</Label>
+        <ComboBox Name="combo_topics" Grid.Column="1" Grid.Row="0" VerticalAlignment="Stretch" HorizontalAlignment="Center" Height="27" Width="250" SelectionChanged="combo_topics_SelectionChanged"></ComboBox>
+        
+        <Grid Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Label Name="label_lang1" Grid.Row="0" Grid.Column="0" VerticalAlignment="Bottom" Margin="5,0,5,0">Nyelv 1:</Label>
+
+            <Label Name="label_lang2" Grid.Row="0" Grid.Column="1" VerticalAlignment="Bottom" Margin="5,0,5,0">Nyelv 2:</Label>
+
+            <TextBox Name="textb_lang1words" Grid.Row="1" Grid.Column="0"  VerticalAlignment="Top" Margin="5,0,5,0"></TextBox>
+
+            <TextBox Name="textb_lang2words" Grid.Row="1" Grid.Column="1"  VerticalAlignment="Top" Margin="5,0,5,0"></TextBox>
+
+            <Button Name="btn_addWord" Grid.Row="2" Grid.Column="0"  VerticalAlignment="Center" Margin="5,0,5,0" Width="100" Height="25" ToolTip="Szó hozzáadása a témához [Enter]" Click="btn_addWord_Click">Hozzáad</Button>
+
+            <Button Name="btn_ready" Grid.Row="2" Grid.Column="1"  VerticalAlignment="Center" Margin="5,0,5,0" Width="100" Height="25" ToolTip="A szavak hozzáadásának befejezése" Click="btn_ready_Click">Kész</Button>
+
+        </Grid>
+    </Grid>
+</Window>
